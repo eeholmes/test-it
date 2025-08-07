@@ -5,3 +5,4 @@ dependencies:
   # some missing packages in pangeo-notebook
   - pyobis
   - cmocean
+  - earthaccess
